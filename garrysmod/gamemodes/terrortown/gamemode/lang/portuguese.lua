@@ -96,7 +96,7 @@ L.disg_menutitle = "Controle do Disfarce"
 L.disg_not_owned = "Você não possui um Disfarce!"
 L.disg_enable    = "Habilitar Disfarce"
 
-L.disg_help1     = "Quando você está disfarçado, seu nome, saúde e karma não são exibidos quando alguém olha para você. Em adição, você será escondido dos radares dos Detetives."
+L.disg_help1     = "Quando você está disfarçado, seu nome, saúde e karma não são exibidos quando alguém olha para você. Além disso, você será escondido dos radares dos Detetives."
 L.disg_help2     = "Pressione a tecla Enter do teclado numérico para habilitar ou desabilitar o Disfarce sem usar o menu. Você pode também pode fazer uma bind com o comando 'ttt_toggle_disguise' usando o console."
 
 -- Radar tab in equipment menu
@@ -573,8 +573,8 @@ L.hp_death     = "Quase Morto"
 
 -- TargetID karma status
 L.karma_max    = "Respeitável"
-L.karma_high   = "Bruto"
-L.karma_med    = "Infeliz"
+L.karma_high   = "Pouco Respeito"
+L.karma_med    = "Cabeça-Oca"
 L.karma_low    = "Perigoso"
 L.karma_min    = "Irresponsável"
 
@@ -851,7 +851,7 @@ L.aw_sui2_title = "Sozinho e Depressivo"
 L.aw_sui2_text  = "foi o único que se matou."
 
 L.aw_exp1_title = "Bolsa de Pesquisa em Explosivos"
-L.aw_exp1_text  = "foi reconhecido por sua pesquisa com explosivos. {num} cobaias o ajudaram."
+L.aw_exp1_text  = "foi reconhecido por sua pesquisa com explosivos. {num} cobaia(s) o ajudaram."
 
 L.aw_exp2_title = "Pesquisa de Campo"
 L.aw_exp2_text  = "testou sua própria resistência a explosões. Não era alta o suficiente."
@@ -905,7 +905,7 @@ L.aw_fal1_title = "Não, Sr. Bond, espero que você caia"
 L.aw_fal1_text  = "empurrou alguém de um lugar alto."
 
 L.aw_fal2_title = "Pavimentado"
-L.aw_fal2_text  = "deixou seu corpo bater no chão depois de cair de uma altitude significativa."
+L.aw_fal2_text  = "deixou seu corpo espatifar no chão depois de cair de uma altitude significativa."
 
 L.aw_fal3_title = "O Meteorito Humano"
 L.aw_fal3_text  = "esmagou alguém caindo sobre este de uma grande altura."
@@ -929,7 +929,7 @@ L.aw_pst1_title = "Inseto Pequeno Persistente"
 L.aw_pst1_text  = "marcou {num} mortes usando a pistola. Logo após, ele abraçou alguém até a morte."
 
 L.aw_pst2_title = "Chacina de Pequeno Calibre"
-L.aw_pst2_text  = "matou um pequeno exército de {num} com uma pistola. Provavelmente instalou uma pequena escopeta dentro do cano."
+L.aw_pst2_text  = "matou um pequeno exército de {num} com uma pistola. O que é isso? Uma escopeta de cano serrado?"
 
 L.aw_sgn1_title = "Modo Fácil"
 L.aw_sgn1_text  = "aplicou tiro onde dói, conseguindo matar {num} alvos."
@@ -949,7 +949,7 @@ L.aw_dgl1_text  = "está pegando o jeito de jogar com a Desert Eagle e conseguiu
 L.aw_dgl2_title = "Mestre da Desert Eagle"
 L.aw_dgl2_text  = "surpreendeu {num} pessoas com sua Desert Eagle."
 
-L.aw_mac1_title = "Rezar e Matar"
+L.aw_mac1_title = "Reze Que Isso Acerte"
 L.aw_mac1_text  = "matou {num} pessoas com a MAC10, mas não dirá quanta munição precisou."
 
 L.aw_mac2_title = "Mac com Queijo"
@@ -971,7 +971,7 @@ L.aw_knf3_title = "Tal Homem Faca"
 L.aw_knf3_text  = "achou {num} facas espalhadas, e fez bom uso delas."
 
 L.aw_knf4_title = "Melhor Homem Faca do Mundo"
-L.aw_knf4_text  = "matou {num} pessoas com uma faca. Não me pergunte como."
+L.aw_knf4_text  = "matou {num} pessoas com uma faca. Nem me pergunta como."
 
 L.aw_flg1_title = "Ao Resgate"
 L.aw_flg1_text  = "usou seu sinalizador para sinalizar {num} mortes."
@@ -991,23 +991,23 @@ L.aw_msx1_text  = "levou {num} pessoas com a M16."
 L.aw_msx2_title = "Loucura de Alcance Médio"
 L.aw_msx2_text  = "sabe derrubar uns alvos com a M16, marcando {num} mortes."
 
-L.aw_tkl1_title = "Foi Sem Querer"
+L.aw_tkl1_title = "Foi Sem Querer Querendo"
 L.aw_tkl1_text  = "pressionou o gatilho enquanto mirava em um companheiro."
 
 L.aw_tkl2_title = "Foi Sem Querer Querendo"
 L.aw_tkl2_text  = "pensou que matou dois Traidores, mas estava errado sobre ambos."
 
 L.aw_tkl3_title = "Karma-A-Arma-Ae"
-L.aw_tkl3_text  = "não conseguiu parar depois de matar dois companheiros. Três é seu número da sorte."
+L.aw_tkl3_text  = "não conseguiu parar depois de matar dois companheiros. Três é seu número da sorte. Quatro já é exagero."
 
 L.aw_tkl4_title = "Os Meus Aliados São Os Meus Inimigos"
-L.aw_tkl4_text  = "matou seu time inteiro. OLOKINHO MEU."
+L.aw_tkl4_text  = "matou seu time inteiro. Pera aí, MAS O QUE DIABOS ACONTECEU?!"
 
 L.aw_tkl5_title = "Papéis Diferentes"
 L.aw_tkl5_text  = "estava interpretando um louco, honesto. E é por isto que ele matou quase todo seu time."
 
 L.aw_tkl6_title = "Anta"
-L.aw_tkl6_text  = "não conseguiu descobrir em que time estava, e matou mais da metade de seus companheiros."
+L.aw_tkl6_text  = "não conseguiu descobrir em que time estava, e matou mais da metade de seus companheiros. Merece o prêmio nobel de Anta."
 
 L.aw_tkl7_title = "Pescoço Vermelho"
 L.aw_tkl7_text  = "protegeu seu território de maneira fantástica ao matar mais de um quarto de seus aliados."
